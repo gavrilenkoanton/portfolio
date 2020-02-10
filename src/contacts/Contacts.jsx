@@ -6,6 +6,7 @@ function Contacts() {
   return (
       <div className={styles.contacts}>
 
+
       </div>
   );
 }
